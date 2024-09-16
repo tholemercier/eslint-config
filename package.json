@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "Shared eslint configurations",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tholemercier/eslint-config.git"
