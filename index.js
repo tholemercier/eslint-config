@@ -18,6 +18,8 @@ module.exports = {
       }
   },
 
+  ignorePatterns: ['dist', '.eslintrc.js', '.eslintrc.cjs', 'postcss.config.js'],
+
   plugins: ["@typescript-eslint", "import"],
 
   extends: [
